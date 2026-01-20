@@ -59,8 +59,9 @@ La función check_victory detecta la victoria.
 
 Estructura del Proyecto
 
-assets/
-images/
+- [`assets/`](assets/)
+  - [`images/`](assets/images/)
+  - [`Musica/`](assets/Musica/)
 
 Aquí se encuentran todas las imágenes y recursos del juego.
 
