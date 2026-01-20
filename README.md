@@ -6,7 +6,7 @@ El objetivo del juego es controlar al personaje, esquivar los barriles que lanza
 
 --------------------------------------------
 
-![Juego en ejecución](activos/imágenes/activos.png)
+![Juego en ejecución](assets/images/assets.png)
 
 --------------------------------------------
 
