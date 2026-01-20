@@ -6,6 +6,11 @@ El objetivo del juego es controlar al personaje, esquivar los barriles que lanza
 
 --------------------------------------------
 
+assets/images/assets.png
+
+
+--------------------------------------------
+
 Paradigma Utilizado
 
 El videojuego fue desarrollado utilizando Programación Orientada a Objetos (POO), ya que este paradigma permite representar cada elemento del juego como un objeto independiente con sus propios atributos y comportamientos.
